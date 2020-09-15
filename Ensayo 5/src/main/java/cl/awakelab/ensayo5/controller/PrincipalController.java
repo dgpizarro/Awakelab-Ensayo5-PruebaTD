@@ -24,7 +24,7 @@ import cl.awakelab.ensayo5.model.Posts;
 public class PrincipalController {
 
     @Autowired
-    CommentsDAO cd;
+    CommentsDAO cd; 
 
     @Autowired
     ListPostsDAO ld;
